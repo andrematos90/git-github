@@ -1,7 +1,0 @@
-Git for Windows:
-Baixe o instalador do Git para Windows no site oficial (https://gitforwindows.org/) e siga as instruções de instalação.
-
-GitHub Desktop:
-Se você também estiver interessado na interface gráfica, você pode baixar o GitHub Desktop (https://desktop.github.com/), que inclui o Git e oferece uma experiência de usuário mais amigável.
-
-Após a instalação, você pode verificar se o Git foi instalado corretamente digitando git --version no terminal ou prompt de comando. Isso deve exibir a versão do Git instalada.
