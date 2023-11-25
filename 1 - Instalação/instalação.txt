@@ -1,0 +1,6 @@
+1 - acessar o site "https://git-scm.com/downloads"
+
+2 - fazer download do executável e instalar
+
+3  - terminal do git "gitbash" e digitar o 
+comando " git --version" para verificar 
