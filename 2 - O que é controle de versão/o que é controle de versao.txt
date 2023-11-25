@@ -1,0 +1,32 @@
+O que é controle de versao?
+
+ - Uma técnica que ajuda a gerenciar o código-fonte de uma aplicação.
+
+ - Registrando todas as modificações de código, podendo também reverter as mesmas.
+
+ - Criar versões de um software em diferentes estágios, podendo alterar facilmente entre elas.
+
+ - Cada membro da equipe pode trabalhar em uma versão diferente.
+
+ - Há ferramentas para trabalhar o  controle de versão como: git e SVN.
+
+
+
+ Explicação:
+
+
+ Controle de versão, ou versionamento, é um sistema que registra alterações feitas em um conjunto de arquivos ao longo do tempo. Ele permite que você acompanhe as modificações feitas em um projeto, reverta para versões anteriores, e trabalhe colaborativamente em um código ou conjunto de documentos.
+
+Existem diferentes sistemas de controle de versão, sendo dois dos mais comuns:
+
+Sistemas de Controle de Versão Local:
+
+Cada usuário mantém uma cópia local do projeto e as alterações são feitas diretamente nessa cópia.
+Exemplos incluem o sistema RCS (Revision Control System).
+Sistemas de Controle de Versão Distribuídos:
+
+Cada usuário mantém uma cópia local do projeto, mas as alterações são feitas em um repositório central ou remoto.
+Exemplos incluem Git e Mercurial.
+O Git, em particular, tornou-se extremamente popular na comunidade de desenvolvimento de software. Ele permite um desenvolvimento colaborativo eficiente, possibilitando que várias pessoas trabalhem em um mesmo projeto simultaneamente, mantendo o histórico de todas as alterações feitas. Além disso, fornece recursos poderosos, como branches (ramificações) que permitem o desenvolvimento paralelo de recursos sem interferir no código principal.
+
+O controle de versão é essencial para o desenvolvimento de software, mas também é aplicável a outros tipos de projetos, como redação colaborativa de documentos, design gráfico, entre outros. Ele ajuda a evitar conflitos, melhora a rastreabilidade e facilita a colaboração entre membros de uma equipe.
