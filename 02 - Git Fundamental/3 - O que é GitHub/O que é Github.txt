@@ -1,0 +1,19 @@
+O GitHub é uma plataforma de hospedagem de código-fonte que utiliza o sistema de controle de versão Git. Ele oferece um ambiente colaborativo para desenvolvedores trabalharem em projetos de software, permitindo que eles armazenem, compartilhem e colaborem em código de maneira eficiente. Aqui estão alguns dos principais aspectos do GitHub:
+
+Controle de Versão com Git: O Git é um sistema de controle de versão distribuído que permite rastrear as alterações no código-fonte ao longo do tempo. Ele permite que várias pessoas colaborem em um projeto, mantendo um histórico completo de todas as alterações feitas.
+
+Repositórios: Os projetos no GitHub são armazenados em repositórios. Um repositório é um local onde o código-fonte, arquivos de configuração e outros recursos relacionados ao projeto são mantidos.
+
+Colaboração: O GitHub facilita a colaboração entre desenvolvedores. Várias pessoas podem contribuir para um projeto, sugerir alterações (pull requests), revisar código, reportar problemas (issues) e discutir ideias usando as ferramentas fornecidas pela plataforma.
+
+Issues e Pull Requests: As issues são usadas para rastrear tarefas, melhorias ou problemas em um projeto. Pull requests são propostas de alterações de código que podem ser discutidas, revisadas e mescladas ao código principal.
+
+Branches: Os branches permitem que os desenvolvedores trabalhem em diferentes versões do código simultaneamente. Isso facilita o desenvolvimento paralelo de recursos sem interferir no código principal.
+
+Integração Contínua: Muitos desenvolvedores usam serviços de integração contínua (CI) integrados ao GitHub. Esses serviços automatizam a compilação e teste de código sempre que há uma alteração, garantindo a estabilidade do projeto.
+
+GitHub Pages: O GitHub Pages permite que os desenvolvedores hospedem websites diretamente a partir de seus repositórios do GitHub, facilitando a apresentação de documentação, blogs e páginas da web associadas ao projeto.
+
+Licenciamento e Segurança: O GitHub fornece ferramentas para gerenciar as licenças de software de um projeto, bem como ferramentas de segurança para verificar e corrigir vulnerabilidades no código.
+
+O GitHub tornou-se uma parte essencial do fluxo de trabalho de muitos desenvolvedores e equipes de desenvolvimento, fornecendo uma plataforma central para o desenvolvimento colaborativo de software.
