@@ -1,0 +1,17 @@
+- Podemos facilmente enviar o repositorio que esta local para o github;
+
+- é necessario criar o projeto no Github e inicializar o mesmo no git na maquina local, sincronizar com o github e enviar
+
+passos detalhados:
+
+1 - criar repositorio no github
+
+2  - criar pasta aonde sera o repositorio no pc e criar um arquivo qualuer dentd-data-table-row
+
+3 - no gitbash acessar essa pasta criada e dar o comando "git init" para iniciar o repositorio
+
+4 - dar o comando "git status" e verificar que o arquivo criado na pasta nao esta mapeado pelo git ainda "Untracked"
+
+5 - dar o comando "git add nomdedoarquivocriado
+
+6 - dar o comando "git commit"
