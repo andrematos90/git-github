@@ -1,31 +1,38 @@
 - Podemos facilmente enviar o repositorio que esta local para o github;
 
-- é necessario criar o projeto no Github e inicializar o mesmo no git na maquina local, sincronizar com o github e enviar
+- é necessario criar o repositorio no Github e inicializar o mesmo no git na maquina local, sincronizar com o github e enviar
 
 passos detalhados:
 
 1 - criar repositorio no github
 
-2  - criar pasta aonde sera o repositorio no pc e criar um arquivo qualuer dentd-data-table-row
+2  - criar pasta aonde sera o repositorio no pc e criar um arquivo qualquer dentro da pasta
 
 3 - no gitbash acessar essa pasta criada e dar o comando "git init" para iniciar o repositorio
 
 4 - dar o comando "git status" e verificar que o arquivo criado na pasta nao esta mapeado pelo git ainda "Untracked"
 
-5 - dar o comando "git add nomdedoarquivocriado
+5 - dar o comando "git add nomdedoarquivocriado" ou "git add . " 
 
-6 - dar o comando 'git commit -m "mensagem de commit" '
+6 - dar o comando 'git commit -a -m "mensagem de commit" '
 
-7 -  seleionar copiar a url de origin, para sincronizar, colar no terminar do gitbash 
+7 - criar uma branc master, comando "branch -M master" ou main
 
-8 - dar o comando "git push -u origin master" para fazer o envio
+8 - seleionar copiar a url de origin, para sincronizar, colar no terminar do gitbash, exemplo: "git remote add origin https://github.com/andrematos90/teste.git"
 
-caso de erro:
+ 9 - enviar com o comando "git push -u origin main"
 
-9 - comando "git remote -v  para ver as origens e comando "git remote rm origin" para remover 
+ caso de erro dizendo que nao tem permisão:
 
-10 - adicionar a nova origem no site do github no repositorio em "code" selecionar "https" e copiar a url, exemplo "https://github.com/andrematos90/git-github.git"
+10 - comando "git remote -v  para ver as origens e comando "git remote rm origin" para remover a origem atual
 
-11 - comando "git remote add origin https://github.com/andrematos90/git-github.git" 
+11 - adicionar a nova origem no site do github no repositorio em "code" selecionar "https" e copiar a url, exemplo "https://github.com/andrematos90/teste.git"
 
-12 - comando "git push -u origin master" para fazer o envio
+12 - comando "git remote add origin https://github.com/andrematos90/teste.git" 
+
+13 - comando "git push -u origin main" para fazer o envio
+
+
+
+
+
